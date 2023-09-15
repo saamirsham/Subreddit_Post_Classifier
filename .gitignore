@@ -1,7 +1,7 @@
 # Ignore Jupyter Notebook Saves
 .ipynb_checkpoints
 credentials.py
-
+_pycache_
 # Ignore MacOS directory metadata file
 .DS_Store
 .credentials.py
